@@ -7,9 +7,7 @@
 - **Languages**:  
   - English (Native) 🇬🇧  
   - Cantonese (Fluent) 🀄  
-- **Phone**: +1(604) 319 -3226 📞  
 - **Email**: [Andy.tai@stat.ubc.ca](mailto:Andy.tai@stat.ubc.ca) 📧  
-- **Address**: 2722 West 34th Avenue, Vancouver, BC, Canada 🏠  
 - **ORCID**: [https://orcid.org/0000-0001-5262-8615](https://orcid.org/0000-0001-5262-8615)  
 - **Dissertation**: [http://hdl.handle.net/2429/87759](http://hdl.handle.net/2429/87759) 📜  
 
