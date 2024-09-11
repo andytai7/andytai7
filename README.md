@@ -47,9 +47,8 @@
   - Enhancing diagnosis and treatment using advanced AI tools 🤖  
   - Analyzing and stratifying concussion subtypes based on demographic data 📈  
 
-[Additional work experiences omitted for brevity.]
 
-## Publications 📝  
+## Publications 📝  [google scholar](https://scholar.google.ca/citations?user=Cs0lX0sAAAAJ&hl=en)
 - **July 2024**  
   _A machine learning approach to predicting overdose risk._  
   Submitted, First Author, Journal of Health Management.  
@@ -63,7 +62,6 @@
   _Clinical decision support systems in addictions and concurrent disorders._  
   Accepted, First Author, Journal of Evaluation in Clinical Practice.  
 
-[Continue listing publications as needed.]
 
 ## Awards 🏆  
 - **2021/2022**  
@@ -87,7 +85,6 @@
   3rd Annual BC Concurrent Disorders Conference (Hosted by BCMHSUS)  
   - Lightning Talk: "Machine Learning: A Predictive Model for Overdose" ⚙️  
 
-[Continue listing relevant conferences.]
 
 ## Research Impact Statement 🌍  
 My research leverages interdisciplinary fields like artificial intelligence, data science, and psychiatry to address the opioid crisis in Vancouver, BC. Using machine learning techniques, I model overdose risks and develop clinical decision support systems for personalized care. My work contributes to healthcare by predicting comorbid outcomes like mental health disorders and suicide, enabling early interventions and improved outcomes.
