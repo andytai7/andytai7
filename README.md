@@ -50,7 +50,7 @@
 
 ## Publications 📝  
 
-[google scholar](https://scholar.google.ca/citations?user=Cs0lX0sAAAAJ&hl=en)
+[Full Publication List](https://scholar.google.ca/citations?user=Cs0lX0sAAAAJ&hl=en)
 
 - **July 2024**  
   _A machine learning approach to predicting overdose risk._  
