@@ -2,7 +2,7 @@
 
 ## Personal Information
 - **Name**: Man Yeung Tai (Andy)  
-- **Nationality**: Canadian 🇨🇦  
+- **Nationality**: Canadian 🇨🇦, Hong Kong 🇭🇰  
 - **Date and Place of Birth**: 1994; Vancouver, Canada 🎂  
 - **Languages**:  
   - English (Native) 🇬🇧  
