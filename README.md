@@ -9,7 +9,8 @@
   - Cantonese (Fluent) 🀄  
 - **Email**: [Andy.tai@stat.ubc.ca](mailto:Andy.tai@stat.ubc.ca) 📧  
 - **ORCID**: [https://orcid.org/0000-0001-5262-8615](https://orcid.org/0000-0001-5262-8615)  
-- **Dissertation**: [http://hdl.handle.net/2429/87759](http://hdl.handle.net/2429/87759) 📜  
+- **Dissertation**: [http://hdl.handle.net/2429/87759](http://hdl.handle.net/2429/87759) 📜
+- **Website**: https://andytai7.github.io/Andy-Tai/
 
 ## Education 🎓  
 - **Sep. 2019 – April 2024**  
