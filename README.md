@@ -15,7 +15,7 @@
 ## Education 🎓  
 - **Sep. 2019 – April 2024**  
   University of British Columbia (UBC), Vancouver, Canada  
-  - **Master of Science in Neuroscience PhD program (Fast Track)**  
+  - **Neuroscience PhD program (Fast Track)**  
   - Supervisor: Dr. Reinhard Michael Krausz  
   - Committee Members:  
     - Dr. Alireza Kazemi  
